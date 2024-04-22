@@ -1,0 +1,1458 @@
+D:\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Imap3D.exe.config
+D:\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Imap3D.exe
+D:\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Imap3D.pdb
+D:\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.FrmVL.resources
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.exe
+D:\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.pdb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Imap3D.exe.config
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Imap3D.exe
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Imap3D.pdb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.FrmVL.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.exe
+D:\New_PMDK\PMDK\PhanMemDieuKhien_Imap\tm2D3D\obj\Debug\Imap3D.pdb
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Imap3D.exe.config
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Imap3D.exe
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Imap3D.pdb
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.FrmVL.resources
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.exe
+D:\PhanMemDieuKhien_Imap2410\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.pdb
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.vbproj.SuggestedBindingRedirects.cache
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.FrmVL.resources
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.Resources.resources
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.Splash.resources
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.exe
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.pdb
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Form\frmMain.resx
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Form\frmMain.vb
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Imap3D.exe.config
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Imap3D.exe
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Imap3D.pdb
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+E:\24.10.2023\PhanMemDieuKhien_Imap2410\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\bin\Debug\Imap3D.exe.config
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\bin\Debug\Imap3D.exe
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\bin\Debug\Imap3D.pdb
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Imap3D.FrmVL.resources
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Imap3D.exe
+D:\PhanMemDieuKhien_Imap_G1\tm2D3D\obj\Debug\Imap3D.pdb
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\bin\Debug\Imap3D.exe.config
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\bin\Debug\Imap3D.exe
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\bin\Debug\Imap3D.pdb
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Imap3D.FrmVL.resources
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Imap3D.exe
+D:\New_PMDK\PMDK\PMDK_Imap3D\tm2D3D\obj\Debug\Imap3D.pdb
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\bin\Debug\Imap3D.exe.config
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\bin\Debug\Imap3D.exe
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\bin\Debug\Imap3D.pdb
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Imap3D.FrmVL.resources
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Imap3D.exe
+D:\PhanMemDieuKhien_IMap3D_25102023\PhanMemDieuKhien_IMap3D_25102023\tm2D3D\obj\Debug\Imap3D.pdb
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Form\frmMain.resx
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Form\frmMain.vb
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Imap3D.exe.config
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Imap3D.exe
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Imap3D.pdb
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Bentley.UI.dll
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Resources.resources
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Splash.resources
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.exe
+C:\11\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.pdb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Imap3D.exe.config
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Imap3D.exe
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Imap3D.pdb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.exe
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.pdb
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Imap3D.exe.config
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Imap3D.exe
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Imap3D.pdb
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.exe
+D:\1. TAT CA DU AN\0. BAN DO MAU NEW\1. PHAN MEM\6. PMDK 04.11 ver1\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.pdb
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Form\frmMain.resx
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Form\frmMain.vb
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Imap3D.exe.config
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Imap3D.exe
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Imap3D.pdb
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Bentley.UI.dll
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Resources.resources
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.Splash.resources
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.exe
+C:\2023\PhanMemDieuKhien_IMap3D\tm2D3D\obj\Debug\Imap3D.pdb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Imap3D.exe.config
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Imap3D.exe
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Imap3D.pdb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.exe
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.pdb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.SuggestedBindingRedirects.cache
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Form\frmMain.resx
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Form\frmMain.vb
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Imap3D.exe.config
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Imap3D.exe
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Imap3D.pdb
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Bentley.UI.dll
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Resources.resources
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Splash.resources
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.exe
+C:\Moi\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.pdb
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Form\frmMain.resx
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Form\frmMain.vb
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Imap3D.exe.config
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Imap3D.exe
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Imap3D.pdb
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Bentley.UI.dll
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Resources.resources
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Splash.resources
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.exe
+C:\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.pdb
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Imap3D.exe.config
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Imap3D.exe
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Imap3D.pdb
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.exe
+D:\QD3\PhanMemDieuKhien_IMap3D_Esp32\tm2D3D\obj\Debug\Imap3D.pdb
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\bin\Debug\Form\frmMain.resx
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\bin\Debug\Form\frmMain.vb
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\bin\Debug\Imap3D.exe.config
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\bin\Debug\Imap3D.exe
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\bin\Debug\Imap3D.pdb
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\bin\Debug\Bentley.UI.dll
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.Resources.resources
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.Splash.resources
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.exe
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.pdb
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+C:\PhanMemDieuKhien_IMap3D_Esp32_moi\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\bin\Debug\Imap3D.exe.config
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\bin\Debug\Imap3D.exe
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\bin\Debug\Imap3D.pdb
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.exe
+D:\New_PMDK\PMDK\PhanMemDieuKhien_IMap3D_MoiNhat\tm2D3D\obj\Debug\Imap3D.pdb
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+C:\2023\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.resx
+C:\2023\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.vb
+C:\2023\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+C:\2023\3DmapTP\tm2D3D\bin\Debug\3DmapTP.exe.config
+C:\2023\3DmapTP\tm2D3D\bin\Debug\3DmapTP.exe
+C:\2023\3DmapTP\tm2D3D\bin\Debug\3DmapTP.pdb
+C:\2023\3DmapTP\tm2D3D\bin\Debug\Bentley.UI.dll
+C:\2023\3DmapTP\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+C:\2023\3DmapTP\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+C:\2023\3DmapTP\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+C:\2023\3DmapTP\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Imap3D.Resources.resources
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Imap3D.Splash.resources
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+C:\2023\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+C:\2023\3DmapTP\tm2D3D\obj\Debug\3DmapTP.exe
+C:\2023\3DmapTP\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\bin\Debug\3DmapTP.exe
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\3DmapTP.exe
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\New_PMDK\PMDK\3DmapTP\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.exe
+D:\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\3DmapTP\3DmapTP\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\3DmapTP.exe
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.testImage.resources
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.exe
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.testImage.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\3DmapTP.exe
+D:\3DmapTP (1)\3DmapTP\3DmapTP\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.exe
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.testImage.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\3DmapTP.exe
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.exe
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.testImage.resources
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\3DmapTP.exe
+D:\New_PMDK\3DmapTP 12.22.2023\3DmapTP\3DmapTP\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\bin\Debug\3DmapTP.exe
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.testImage.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\3DmapTP.exe
+D:\New_PMDK\PMDK\3DmapTP v2.1\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\bin\Debug\3DmapTP.exe
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.testImage.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\3DmapTP.exe
+D:\New_PMDK\PMDK\3DmapTP v2.1.1\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\bin\Debug\3DmapTP.exe
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\3DmapTP.exe
+D:\New_PMDK\PMDK\3DmapTP v2.1.2\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\bin\Debug\3DmapTP.exe
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\3DmapTP.exe
+D:\New_PMDK\PMDK\3DmapTP v2.1.3\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\bin\Debug\3DmapTP.exe
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\3DmapTP.exe
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\3DmapTP.exe
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\3DmapTP.exe
+D:\TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\3DmapTP.exe
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\3DmapTP.exe
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phần Mềm Mới\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\3DmapTP.exe
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\3DmapTP.exe
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\3DmapTP.exe
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmSBVL.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\3DmapTP.exe
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.1.3.1 (themtong)\3DmapTP v2.1.3.1\3DmapTP v2.2.1\tm2D3D\obj\Debug\3DmapTP.pdb
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\bin\Debug\Form\frmMain.resx
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\bin\Debug\Form\frmMain.vb
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\bin\Debug\3DmapTP.exe.config
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\bin\Debug\3DmapTP.exe
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\bin\Debug\3DmapTP.pdb
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\bin\Debug\Guna.UI2.dll
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.CCD.resources
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Login.resources
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Resources.resources
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Splash.resources
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.Up2Date
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\3DmapTP.exe
+G:\1.1 NghienCuu\3DmapTP v2.2.5\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\bin\Debug\3DmapTP.exe
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\3DmapTP.exe
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5\3DmapTP v2.2.5\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\3DmapTP.exe
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\3DmapTP.exe
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\3DmapTP.exe
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\3DmapTP.exe
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP v2.2.5(dagopkb) - 3.9.2024\3DmapTP v2.2.5(dagopkb)\3DmapTP v2.2.5\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.exe.config
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.exe
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.Splash.resources
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\3DmapTP.exe
+D:\1.TienphatCompany\2.Phanmemmoi\3DmapTP  - 3.16.2024\3DmapTP\3DmapTP\tm2D3D\obj\Debug\3DmapTP.pdb
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\bin\Debug\Form\frmMain.resx
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\bin\Debug\Form\frmMain.vb
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\bin\Debug\3DmapTP.dll.config
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\bin\Debug\3DmapTP.dll
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\bin\Debug\3DmapTP.pdb
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\bin\Debug\Guna.UI2.dll
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.CCD.resources
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.Login.resources
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.Resources.resources
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\Imap3D.vbproj.Up2Date
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\3DmapTP.dll
+G:\TIENPHAT_COMPANY\1.1 NghienCuu\3DmapTP  - 3.16.2024\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\3DmapTP.dll.config
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\3DmapTP.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\3DmapTP.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\3DmapTP.pdb
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Form\frmMain.resx
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Form\frmMain.vb
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\3DmapTP.dll.config
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\3DmapTP.dll
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\3DmapTP.pdb
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Guna.UI2.dll
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.CCD.resources
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Login.resources
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Resources.resources
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\3DmapTP.dll
+E:\Nam_Không Được Xoá\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\3DmapTP.pdb
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Form\frmMain.resx
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Form\frmMain.vb
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\3DmapTP.dll.config
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\3DmapTP.dll
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\3DmapTP.pdb
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Guna.UI2.dll
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.CCD.resources
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Login.resources
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Resources.resources
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\3DmapTP.dll
+E:\Nam\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\3DmapTP.pdb
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Form\frmMain.resx
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Form\frmMain.vb
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\3DmapTP.dll.config
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\3DmapTP.dll
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\3DmapTP.pdb
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Guna.UI2.dll
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.CCD.resources
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Login.resources
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.Resources.resources
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\Imap3D.vbproj.Up2Date
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\3DmapTP.dll
+G:\TIENPHAT_COMPANY\BanGiaoSB1\3DmapTP_XLA v2.0\tm2D3D\obj\Debug\3DmapTP.pdb
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\Form\frmMain.resx
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\Form\frmMain.vb
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\3DmapTP.dll.config
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\3DmapTP.dll
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\3DmapTP.pdb
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\Guna.UI2.dll
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.CCD.resources
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.Login.resources
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.Resources.resources
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.Up2Date
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\3DmapTP.dll
+G:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\3DmapTP.dll.config
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\3DmapTP.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\Imap3D.vbproj.Up2Date
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\3DmapTP.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.1\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\bin\Debug\3DmapTP.dll.config
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\bin\Debug\3DmapTP.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\Imap3D.vbproj.Up2Date
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\3DmapTP.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.2\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\3DmapTP.dll.config
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\3DmapTP.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\3DmapTP.dll
+D:\1.TienphatCompany\2.Phanmemmoi\BanGiaoSB1\BanGiaoSB1\3DmapTP_XLA v2.3\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\3DmapTP.dll.config
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\3DmapTP.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.Up2Date
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\3DmapTP.dll
+D:\TIENPHAT_COMPANY\Phan Mem\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\3DmapTP.pdb
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Form\frmMain.resx
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Form\frmMain.vb
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Form\frmMain.Designer.vb
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\3DmapTP.dll.config
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\3DmapTP.dll
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\3DmapTP.pdb
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Guna.UI2.dll
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Interop.MicroStationDGN.dll
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\Interop.TerraExplorerX.dll
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\bin\Debug\AxInterop.TerraExplorerX.dll
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.AssemblyReference.cache
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Interop.MicroStationDGN.dll
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Interop.TerraExplorerX.dll
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\AxInterop.TerraExplorerX.dll
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.ResolveComReference.cache
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.BitDon.resources
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.BitTong.resources
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.CCD.resources
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.Frm3DA.resources
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.Frm3Dbd.resources
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.FrmMain.resources
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.FrmSBVLM.resources
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.KichBan.resources
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.Login.resources
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.SetUp.resources
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.FrmTC.resources
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.Resources.resources
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.GenerateResource.cache
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.CoreCompileInputs.cache
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\Imap3D.vbproj.CopyComplete
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\3DmapTP.dll
+D:\TienPhat\3Dmap_XLA\3DmapTP_XLA v2.3\tm2D3D\obj\Debug\3DmapTP.pdb

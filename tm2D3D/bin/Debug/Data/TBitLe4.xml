@@ -1,0 +1,322 @@
+<BitLeData>
+  <Bit ID="1">
+    <Name>31.1: Bit 241</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="2">
+    <Name>31.2: Bit 242</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="3">
+    <Name>31.3: Bit 243</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="4">
+    <Name>31.4: Bit 244</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="5">
+    <Name>31.5: Bit 245</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="6">
+    <Name>31.6: Bit 246</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="7">
+    <Name>31.7: Bit 247</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="8">
+    <Name>31.8: Bit 248</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="9">
+    <Name>32.1: Bit 249</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="10">
+    <Name>32.2: Bit 250</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="11">
+    <Name>32.3: Bit 251</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="12">
+    <Name>32.4: Bit 252</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="13">
+    <Name>32.5: Bit 253</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="14">
+    <Name>32.6: Bit 254</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="15">
+    <Name>32.7: Bit 255</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="16">
+    <Name>32.8: Bit 256</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="17">
+    <Name>33.1: Bit 257</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="18">
+    <Name>33.2: Bit 258</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="19">
+    <Name>33.3: Bit 259</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="20">
+    <Name>33.4: Bit 260</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="21">
+    <Name>33.5: Bit 261</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="22">
+    <Name>33.6: Bit 262</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="23">
+    <Name>33.7: Bit 263</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="24">
+    <Name>33.8: Bit 264</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="25">
+    <Name>34.1: Bit 265</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="26">
+    <Name>34.2: Bit 266</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="27">
+    <Name>34.3: Bit 267</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="28">
+    <Name>34.4: Bit 268</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="29">
+    <Name>34.5: Bit 269</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="30">
+    <Name>34.6: Bit 270</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="31">
+    <Name>34.7: Bit 271</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="32">
+    <Name>34.8: Bit 272</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="33">
+    <Name>35.1: Bit 273</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="34">
+    <Name>35.2: Bit 274</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="35">
+    <Name>35.3: Bit 275</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="36">
+    <Name>35.4: Bit 276</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="37">
+    <Name>35.5: Bit 277</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="38">
+    <Name>35.6: Bit 278</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="39">
+    <Name>35.7: Bit 279</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="40">
+    <Name>35.8: Bit 280</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="41">
+    <Name>36.1: Bit 281</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="42">
+    <Name>36.2: Bit 282</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="43">
+    <Name>36.3: Bit 283</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="44">
+    <Name>36.4: Bit 284</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="45">
+    <Name>36.5: Bit 285</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="46">
+    <Name>36.6: Bit 286</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="47">
+    <Name>36.7: Bit 287</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="48">
+    <Name>36.8: Bit 288</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="49">
+    <Name>37.1: Bit 289</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="50">
+    <Name>37.2: Bit 290</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="51">
+    <Name>37.3: Bit 291</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="52">
+    <Name>37.4: Bit 292</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="53">
+    <Name>37.5: Bit 293</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="54">
+    <Name>37.6: Bit 294</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="55">
+    <Name>37.7: Bit 295</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="56">
+    <Name>37.8: Bit 296</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="57">
+    <Name>38.1: Bit 297</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="58">
+    <Name>38.2: Bit 298</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="59">
+    <Name>38.3: Bit 299</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="60">
+    <Name>38.4: Bit 300</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="61">
+    <Name>38.5: Bit 301</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="62">
+    <Name>38.6: Bit 302</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="63">
+    <Name>38.7: Bit 303</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="64">
+    <Name>38.8: Bit 304</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="65">
+    <Name>39.1: Bit 305</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="66">
+    <Name>39.2: Bit 306</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="67">
+    <Name>39.3: Bit 307</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="68">
+    <Name>39.4: Bit 308</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="69">
+    <Name>39.5: Bit 309</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="70">
+    <Name>39.6: Bit 310</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="71">
+    <Name>39.7: Bit 311</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="72">
+    <Name>39.8: Bit 312</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="73">
+    <Name>40.1: Bit 313</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="74">
+    <Name>40.2: Bit 314</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="75">
+    <Name>40.3: Bit 315</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="76">
+    <Name>40.4: Bit 316</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="77">
+    <Name>40.5: Bit 317</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="78">
+    <Name>40.6: Bit 318</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="79">
+    <Name>40.7: Bit 319</Name>
+    <Status>0</Status>
+  </Bit>
+  <Bit ID="80">
+    <Name>40.8: Bit 320</Name>
+    <Status>0</Status>
+  </Bit>
+</BitLeData>

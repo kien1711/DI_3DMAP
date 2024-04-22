@@ -1,0 +1,15 @@
+_USTN_USERNAME = transDGN
+_USTN_USERDESCR = transDGN Workspace 
+%if defined (_NAVIGATOR)
+_USTN_USERINTNAME = default
+%endif
+MS_PROTECTION_ENABLE = 1
+MS_DGNLIBLIST = c:/programdata/bentley/microstation/workspace/standards/dgnlib/ustation.dgnlib
+MS_VBAAUTOLOADPROJECTS = VN2000
+MS_SYMBRSRC = $(_USTN_SYSTEMROOT)symb/vnfont.rsc
+MS_SYMBRSRC > $(_USTN_SYSTEMROOT)symb/lstyle.rsc
+MS_SYMBRSRC > $(_USTN_SYSTEMROOT)symb/internat.rsc
+MS_SYMBRSRC > $(_USTN_SYSTEMROOT)symb/*.rsc
+MS_GEOCOORDINATE_USERLIBRARIES = c:\Users\All Users\Bentley\MicroStation\WorkSpace\System\Database\odbc\vn2000.dty
+_USTN_PROJECTNAME = VN2000
+_USTN_USERCFG = transDGN

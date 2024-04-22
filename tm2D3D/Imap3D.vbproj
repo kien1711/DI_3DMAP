@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{13D3A4D4-86CE-42A0-BF30-732C3860E6CD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>Imap3D</RootNamespace>
+    <AssemblyName>3DmapTP</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42105,42106,42107</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+    <WarningLevel>1</WarningLevel>
+    <Optimize>false</Optimize>
+    <RemoveIntegerChecks>true</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42105,42106,42107</NoWarn>
+    <WarningLevel>1</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>TP.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bentley.UI">
+      <HintPath>..\..\..\Program Files (x86)\Bentley\MicroStation\assemblies\ECFramework\Bentley.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.2, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.2\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WindowsHookLib, Version=1.1.1.2, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\tm2D3D\tm2D3D\bin\Debug\WindowsHookLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Form\BitDon.Designer.vb">
+      <DependentUpon>BitDon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\BitDon.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form\BitTong.Designer.vb">
+      <DependentUpon>BitTong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\BitTong.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form\CCD.Designer.vb">
+      <DependentUpon>CCD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\CCD.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form\FrmSBVLM.Designer.vb">
+      <DependentUpon>FrmSBVLM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmSBVLM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\KichBan.Designer.vb">
+      <DependentUpon>KichBan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\KichBan.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form\Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\SetUp.Designer.vb">
+      <DependentUpon>SetUp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\SetUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmTC.Designer.vb">
+      <DependentUpon>FrmTC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmTC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDL\mdlMicroStation.vb" />
+    <Compile Include="MDL\mdlQuanlyfile.vb" />
+    <Compile Include="ToggleButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form\frm3Dbd.Designer.vb">
+      <DependentUpon>frm3Dbd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frm3Dbd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frm3DA.Designer.vb">
+      <DependentUpon>frm3DA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frm3DA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmMain.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Class\LineBusiness.vb" />
+    <Compile Include="MDL\IDcomputer.vb" />
+    <Compile Include="MDL\mdlBLLD_BB_BP_DC_DBDV.vb" />
+    <Compile Include="MDL\mdlChuyendoiHTD.vb" />
+    <Compile Include="MDL\mdlDraw3D.vb" />
+    <Compile Include="MDL\mdlGlobal.vb" />
+    <Compile Include="MDL\mdlHaiquan.vb" />
+    <Compile Include="MDL\mdlHDTC.vb" />
+    <Compile Include="MDL\mdlKQ_PK_PB_HH_LLVTDP_TTG.vb" />
+    <Compile Include="MDL\mdlMatran.vb" />
+    <Compile Include="MDL\mdlSnipScreen.vb" />
+    <Compile Include="MDL\mdlVeMT.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Class\NetworkConnections.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form\BitDon.resx">
+      <DependentUpon>BitDon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\BitTong.resx">
+      <DependentUpon>BitTong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\CCD.resx">
+      <DependentUpon>CCD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frm3DA.resx">
+      <DependentUpon>frm3DA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frm3Dbd.resx">
+      <DependentUpon>frm3Dbd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmSBVLM.resx">
+      <DependentUpon>FrmSBVLM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\KichBan.resx">
+      <DependentUpon>KichBan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\SetUp.resx">
+      <DependentUpon>SetUp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmTC.resx">
+      <DependentUpon>FrmTC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.manifest" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxTerraExplorerX">
+      <Guid>{B87695B0-65AD-11D5-85C1-0001023952C1}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="MicroStationDGN">
+      <Guid>{CF9F97BF-39F2-4B8E-835C-8BE9E99DAF5B}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="TerraExplorerX">
+      <Guid>{B87695B0-65AD-11D5-85C1-0001023952C1}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Lo go quan doi %283%29.ico" />
+    <None Include="packages.config" />
+    <None Include="Resources\next.png" />
+    <None Include="Resources\previous.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\logout.png" />
+    <None Include="Resources\455.png" />
+    <None Include="Resources\4551.png" />
+    <None Include="Resources\images1.png" />
+    <None Include="Resources\images2.png" />
+    <None Include="Resources\222.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\confirm.png" />
+    <None Include="Resources\save.png" />
+    <None Include="Resources\back.png" />
+    <None Include="Resources\forward.png" />
+    <None Include="Resources\import.png" />
+    <None Include="Resources\login %281%29.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\security.png" />
+    <None Include="Resources\refresh1.png" />
+    <None Include="Resources\TP.ico" />
+    <None Include="Resources\login.png" />
+    <None Include="Resources\hinh-nen-may-tinh-4k-cong-nghe-8.jpg" />
+    <None Include="Resources\112.png" />
+    <None Include="Resources\hinh-nen-dien-thoai-4k-8-didongviet-6.jpg" />
+    <None Include="Resources\123.png" />
+    <None Include="Resources\coordinate-axes.png" />
+    <None Include="Resources\coordinate %282%29.png" />
+    <None Include="Resources\left-chevron.png" />
+    <None Include="Resources\right-chevron.png" />
+    <None Include="Resources\up-chevron.png" />
+    <None Include="Resources\down-chevron.png" />
+    <None Include="Resources\center.png" />
+    <None Include="Resources\New Project %283%29.jpg" />
+    <None Include="Resources\idea.png" />
+    <None Include="Resources\all %283%29.png" />
+    <None Include="Resources\flag.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\cycle.png" />
+    <None Include="Resources\cycle1.png" />
+    <None Include="Resources\cycle11.png" />
+    <None Include="Resources\z4998023815625_3d64790ecaa29ab530f1e9792173edc6.jpg" />
+    <None Include="Resources\z4998023815625_3d64790ecaa29ab530f1e9792173edc61.jpg" />
+    <None Include="Resources\pngtree-watercolor-blue-green-gradient-image_7009.jpg" />
+    <None Include="Resources\White-background-with-blue-tech-hexagon.jpg" />
+    <None Include="Resources\New Project %283%291.jpg" />
+    <Content Include="TP.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
