@@ -1,4 +1,5 @@
-﻿Imports System.IO
+﻿'Bùi Chí Kiên
+Imports System.IO
 Imports System.IO.Ports
 Imports System.Xml
 
@@ -70,6 +71,11 @@ Public Class SetUp
         Catch ex As Exception
         End Try
     End Sub
+
+    Private Sub Up_Click(sender As Object, e As EventArgs) Handles Up.Click
+
+    End Sub
+
     Private Sub xoa_home_Click(sender As Object, e As EventArgs) Handles xoa_home.Click
         FrmSBVLM.Instance.TRData("r")
         extra_up = 0
