@@ -1,4 +1,5 @@
 ﻿'Bùi Chí Kiên 22/4/2024 10:36
+'add feature Limit Move
 Imports System.IO
 Imports System.IO.Ports
 Imports System.Xml
